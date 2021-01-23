@@ -66,13 +66,13 @@ It seems some of the directors had directed multiple movies so they will pop up 
 
 ### Iteration 2: Steven Spielberg. The best?
 
-One of the most famous directors in cinema is **[Steven Spielberg](https://en.wikipedia.org/wiki/Steven_Spielberg)**, and he has some really awesome drama movies that are on our list, but we want to know how many of them are there.
+One of the most famous directors in cinema is **[Steven Spielberg](https://en.wikipedia.org/wiki/Steven_Spielberg)**, and he has some really awesome drama movies that are on our list, but we want to know how many of them there are.
 
 Go ahead and create a `howManyMovies()` function that receives an array as a parameter and `filter` :eyes: the array so we can have only the **drama** movies where **Steven Spielberg** is the director.
 
 ### Iteration 3: All rates average
 
-These are the best movies based on their rates, so supposedly all of them have a remarkable rate. In this iteration, we want to know the average rate of all of them and display it on the console. Create a `ratesAverage()` function that receives an array as a parameter and solves the challenge.
+These are the best movies based on their ratings, so supposedly all of them have a remarkable rating. In this iteration, we want to know the average rating of all of them and display it on the console. Create a `ratesAverage()` function that receives an array as a parameter and solves the challenge.
 
 The rate must be returned rounded to 2 decimals!
 

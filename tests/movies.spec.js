@@ -59,7 +59,7 @@ describe('Get how many movies - howManyMovies', () => {
     expect(howManyMovies([])).toBe(0);
   });
 
-  it('Return 0 if he did not direct none of the movies in the array', () => {
+  it('Return 0 if he did not direct any of the movies in the array', () => {
     expect(
       howManyMovies([
         {
